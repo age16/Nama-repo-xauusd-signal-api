@@ -20,7 +20,7 @@ def signal():
             "📉 Pattern: Bullish Engulfing (TF 30M)\n"
             "📶 TF: SELL | SELL | SELL\n"
             "🧠 Confidence: 87%\n"
-            "🕒 01:30 WIB\n"
+            "🕒 17:00 WIB\n"
             "📰 PS: Sentimen pasar sedang mendukung arah turun berdasarkan berita ekonomi terbaru."
         )
     })
