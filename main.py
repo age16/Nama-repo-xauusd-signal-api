@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def home():
-    return "✅ Server XAU/USD aktif"
+    return "✅ Server AI XAU/USD Aktif"
 
 @app.route("/api/signal")
 def signal():
@@ -20,7 +20,7 @@ def signal():
             "📉 Pattern: Bullish Engulfing (TF 30M)\n"
             "📶 TF: SELL | SELL | SELL\n"
             "🧠 Confidence: 87%\n"
-            "🕒 17:00 WIB\n"
+            "🕒 01:30 WIB\n"
             "📰 PS: Sentimen pasar sedang mendukung arah turun berdasarkan berita ekonomi terbaru."
         )
     })
