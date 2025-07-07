@@ -9,5 +9,5 @@ def home():
 @app.route("/api/signal")
 def signal():
     return jsonify({
-        "message": "Sinyal AI XAU/USD - Test"
+        "message": "Tes sinyal AI XAU/USD aktif"
     })
